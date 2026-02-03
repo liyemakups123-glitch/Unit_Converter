@@ -1,0 +1,167 @@
+body {
+    margin: 0 auto 0 auto;
+    width: 550px;
+height: 729px;
+top: 126px;
+left: 696px;
+
+opacity: 1;
+background: #1F2937;
+text-align: center;
+
+
+}
+
+#SearchEngine{
+
+width: 550px;
+height: 285px;
+background: #6943FF;
+
+opacity: 1;
+
+background-size: cover;
+
+}
+
+#title{
+width: 448.3999938964844px;
+height: 38px;
+top: 33px;
+left: 51px;
+
+opacity: 1;
+
+font-family: Inter;
+font-weight: 800;
+font-style: Extra Bold;
+font-size: 28px;
+
+line-height: 38px;
+letter-spacing: -3%;
+text-align: center;
+color: #FFFFFF;
+margin-left: auto;
+margin-right: auto; 
+padding-top: 20px;
+
+
+}
+
+#input-el {
+
+width: 211.00001525878906px;
+height: 51.22543716430664px;
+top: 131px;
+left: 171px;
+
+opacity: 1;
+font-family: Inter;
+font-weight: 800;
+font-style: Extra Bold;
+font-size: 58px;
+
+line-height: 24.39px;
+letter-spacing: 0%;
+text-align: center;
+color:#FFFFFF;
+margin-top: 10px;
+
+
+}
+
+#back, #input-el{
+
+width: 117px;
+height: 83px;
+top: 101px;
+left: 217px;
+border-radius: 5px;
+border-width: 2px;
+
+opacity: 1;
+
+border: 2px solid #B295FF;
+background-color : #6943FF;
+display: block;
+margin-right: auto;
+margin-left: auto;
+margin-bottom: 40px;
+
+}
+
+#btnconvert, #btnlabel{
+
+width: 117px;
+height: 42px;
+top: 209px;
+left: 217px;
+border-radius: 5px;
+angle: 0 deg;
+opacity: 1;
+
+box-shadow: 0px 1px 2px 0px #0000000D;
+background-color: #FFFFFF;
+
+
+}
+
+
+#btnlabel{
+
+width: 62;
+height: 24;
+top: 9px;
+left: 27.5px;
+angle: 0 deg;
+opacity: 1;
+
+font-family: Inter;
+font-weight: 500;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 24px;
+letter-spacing: 0%;
+color: #3D3D3D;
+
+
+}
+
+
+
+.Conversions{
+
+
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+color:  #CCC1FF;
+margin-left: 20px;
+
+
+}
+
+.convbox{
+width: 500px;
+height: 80.57313537597656px;
+top: 321px;
+left: 25px;
+border-top-left-radius: 4.68px;
+
+opacity: 1;
+background: #273549;
+margin: 10px;
+
+font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 20px;
+
+line-height: 20px;
+letter-spacing: 0%;
+text-align: center;
+padding-top: 29px;
+
+
+}
+
